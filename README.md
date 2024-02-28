@@ -1,1 +1,5 @@
-# authoring
+# GitHub Flavoured Markdown
+
+## Checkboxes
+
+- [ ] [External Link]()
